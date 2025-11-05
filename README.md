@@ -15,10 +15,11 @@ Soy una persona responsable, comprometida y con gran interés por el aprendizaje
 ## 🎓 Formación académica
 - **Estudiante de Ingeniería de Sistemas**  
   *Institución Universitaria Minuto de Dios (UNIMINUTO)*  
-  Actualmente me encuentro en proceso de formación, adquiriendo conocimientos teóricos y prácticos en el área de la tecnología, la programación y el análisis de sistemas.  
+  Actualmente me encuentro en proceso de formación, adquiriendo conocimientos teóricos en el área de la tecnología y la programación 
 
 - **Bachiller Académico**  
-  *Institución Educativa Departamental Miguel Samper Agudelo*  
+  *Institución Educativa San Juan de los pastos *
+  *Institución Educativa Chuniza * 
   Culminé mis estudios de educación media con énfasis en valores, responsabilidad y trabajo en equipo.
 
 ---

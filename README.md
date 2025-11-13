@@ -7,12 +7,12 @@
 
 ---
 
-## 🌱 Perfil personal
+## Perfil personal
 Soy una persona responsable, comprometida y con gran interés por el aprendizaje continuo. Me gusta asumir nuevos retos que me permitan fortalecer mis conocimientos y desarrollar mis habilidades tecnológicas. Me caracterizo por mi disposición al trabajo en equipo, mi actitud positiva y mi deseo de crecer tanto personal como profesionalmente dentro del campo de la Ingeniería de Sistemas.
 
 ---
 
-## 🎓 Formación académica
+## Formación académica
 - **Estudiante de Ingeniería de Sistemas**  
   *Institución Universitaria Minuto de Dios (UNIMINUTO)*  
   Actualmente me encuentro en proceso de formación, adquiriendo conocimientos teóricos en el área de la tecnología y la programación 
@@ -24,7 +24,7 @@ Soy una persona responsable, comprometida y con gran interés por el aprendizaje
 
 ---
 
-## 💻 Habilidades técnicas
+## Habilidades técnicas
 - Conceptos básicos de programación  
 - Uso de herramientas colaborativas como Git y GitHub  
 - Comprensión del trabajo en entornos digitales  
@@ -33,7 +33,7 @@ Soy una persona responsable, comprometida y con gran interés por el aprendizaje
 
 ---
 
-## 🤝 Habilidades personales
+## Habilidades personales
 - Responsabilidad y compromiso  
 - Comunicación asertiva  
 - Trabajo en equipo y liderazgo positivo  
@@ -42,7 +42,7 @@ Soy una persona responsable, comprometida y con gran interés por el aprendizaje
 
 ---
 
-## 🌟 Intereses
+## Intereses
 - Aprender más sobre desarrollo de software y tecnología  
 - Participar en proyectos colaborativos que generen impacto social  
 - Mejorar mis habilidades profesionales y personales  
@@ -50,5 +50,5 @@ Soy una persona responsable, comprometida y con gran interés por el aprendizaje
 
 ---
 
-## 🧭 Objetivo profesional
+## Objetivo profesional
 Mi objetivo es continuar mi formación en Ingeniería de Sistemas para convertirme en una profesional competente, capaz de aportar soluciones innovadoras a través de la tecnología. Deseo contribuir al desarrollo de proyectos que promuevan el avance digital y beneficien a la comunidad.
